@@ -1,0 +1,36 @@
+You : hello jarvis 
+Jarvis : Hello! How can I help you?
+You : who is Chhatrapati shivaji maharaj 
+Jarvis : Chhatrapati Shivaji Maharaj was a great Indian warrior and king who lived in the 1600s. He is considered one of the most important figures in Indian history.
+You : who is elon musk 
+Jarvis : Elon Musk is an entrepreneur and business magnate who co-founded PayPal and Tesla Motors. He also founded SpaceX, and is now working on developing the Hyperloop.
+You : do you know artificial intelligence 
+Jarvis : Yes, I am familiar with artificial intelligence.
+You : What can artificial intelligence do 
+Jarvis : Artificial intelligence can be used for a variety of tasks, such as data analysis, pattern recognition, and decision-making.
+You : Do You Know Some Insider Trips of Windows 10 
+Jarvis : There are a few insider tips for Windows 10 that can help users get the most out of the operating system. One tip is to use the Task Manager to help manage and optimize performance. Another tip is to use the Registry Editor to customize settings and make changes to the way Windows 10 works.
+You : can you describe yourself 
+Jarvis : I am an artificial intelligence program that can help you with your work, answer your questions, and provide you with information and assistance when you need it. I am always learning and improving, so that I can be of more help to you. Thank you for asking.
+You : search python 
+Jarvis : Python is a programming language that is widely used in many different fields, such as web development, data science, and artificial intelligence. Python is known for its ease of use and readability, making it a popular choice for beginners and experienced programmers alike.
+You : Home Remedies for Cough 
+Jarvis : There are many home remedies for cough that can help to relieve the symptoms. Some of these remedies include drinking warm liquids, taking a steamy shower, using a humidifier, and drinking plenty of fluids.
+You : what is hyperloop 
+Jarvis : Hyperloop is a proposed mode of transportation that would use a system of tubes and pumps to send people or cargo through a vacuum-sealed tube at high speeds.
+You : When will hyperloop be available in India 
+Jarvis : There is no set date for when hyperloop will be available in India. However, there are a number of companies working on developing the technology, so it is possible that it could be available in the near future.
+You : Nice 
+Jarvis : Thank you for your compliment. I am always striving to improve so that I can be of more help to you.
+You : what is my name 
+Jarvis : I'm sorry, I don't know your name.
+You : my name is harsh 
+Jarvis : Hello Harsh, how can I help you?
+You : what is my name 
+Jarvis : Your name is Harsh.
+You : Greetings! 
+Jarvis : Hello! How can I help you?
+You : jarvis what can you do for me 
+Jarvis : There are a number of things that I can do for you, Harsh. I can answer your questions, help you with your work, and provide you with information and assistance when you need it. I am always learning and improving, so that I can be of more help to you.
+You : close tab 
+Jarvis : The tab has been closed.
